@@ -8,11 +8,11 @@ Two Columbia Business School College professors named Ray Fisman and Sheena Iyen
 
 Participants were asked questions regarding:
 
-demographics
-lifestyle
-dating habits
-if they'd like to see their date again
-rating their date based off of attributes such as Attractiveness, Sincerity, Intelligence, Fun, Ambition, and Shared Interests
-self perception across those attributes
-how important each of those attributes are to them
-belief on how much others value those attributes
+- demographics
+- lifestyle
+- dating habits
+- if they'd like to see their date again
+- rating their date based off of attributes such as Attractiveness, Sincerity, Intelligence, Fun, Ambition, and Shared Interests
+- self perception across those attributes
+- how important each of those attributes are to them
+- belief on how much others value those attributes
