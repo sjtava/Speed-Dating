@@ -1,3 +1,6 @@
+---
+permalink: /Speed_Dating_Analysis.html
+---
 # Speed-Dating
 
 Are the attributes that people say they find important really the driving factors in the end? What factors truly influence a match? In this new age of online dating, physical traits are one of the deciding factors of a right swipe. If we remove dating apps from the equation, does attractiveness really hold so much weight? Are we wasting time focusing on things that don't lead to love? Let's find out.
