@@ -14,5 +14,3 @@ Participants were asked questions regarding:
 - self perception across those attributes
 - how important each of those attributes are to them
 - belief on how much others value those attributes
-
-Find the Jupyter Notebook here: https://sjtava.github.io/Speed-Dating/
