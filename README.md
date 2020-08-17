@@ -1,5 +1,5 @@
 ---
-permalink: /Speed_Dating_Analysis.html
+permalink: /Speed-Dating-Analysis.html
 ---
 # Speed-Dating
 
