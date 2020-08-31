@@ -16,6 +16,6 @@ Participants were asked questions regarding:
 - belief on how much others value those attributes
 
 
-<img src="https://user-images.githubusercontent.com/69762932/91723324-90b38900-eb69-11ea-9185-0d538d71da67.jpg" width="500" /><img src="https://user-images.githubusercontent.com/69762932/91723411-b6409280-eb69-11ea-91a1-59b741bd0867.jpg" width="500" />
+<img src="https://user-images.githubusercontent.com/69762932/91723324-90b38900-eb69-11ea-9185-0d538d71da67.jpg" width="400" /><img src="https://user-images.githubusercontent.com/69762932/91723411-b6409280-eb69-11ea-91a1-59b741bd0867.jpg" width="400" />
 
 
