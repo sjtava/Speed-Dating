@@ -15,4 +15,5 @@ Participants were asked questions regarding:
 - how important each of those attributes are to them
 - belief on how much others value those attributes
 
-![Annotation 2020-08-31 090432](https://user-images.githubusercontent.com/69762932/91723324-90b38900-eb69-11ea-9185-0d538d71da67.jpg)
+![Annotation 2020-08-31 090432](https://user-images.githubusercontent.com/69762932/91723324-90b38900-eb69-11ea-9185-0d538d71da67.jpg) ![Annotation 2020-08-31 090451](https://user-images.githubusercontent.com/69762932/91723411-b6409280-eb69-11ea-91a1-59b741bd0867.jpg)
+
